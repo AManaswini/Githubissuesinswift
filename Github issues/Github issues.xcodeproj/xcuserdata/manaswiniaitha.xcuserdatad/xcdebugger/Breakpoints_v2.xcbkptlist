@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CEAEC97D-1BEF-4D92-883A-FD86DAAE3E3B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "680BD05D-35BE-4845-90CD-92E2BE9DF013"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Github issues/IssueTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "IssueTableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "680BD05D-35BE-4845-90CD-92E2BE9DF013 - fa7db39da696eeb1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Github_issues.IssueTableViewCell.issueImage.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Github issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manaswiniaitha/Documents/ios/Github%20issues/Github%20issues/IssueTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "680BD05D-35BE-4845-90CD-92E2BE9DF013 - 145b5f3c61083a85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Github_issues.IssueTableViewCell.issueImage.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Github issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manaswiniaitha/Documents/ios/Github%20issues/Github%20issues/IssueTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "680BD05D-35BE-4845-90CD-92E2BE9DF013 - e07c41b9e2a01b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Github_issues.IssueTableViewCell.issueImage.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "Github issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manaswiniaitha/Documents/ios/Github%20issues/Github%20issues/IssueTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "680BD05D-35BE-4845-90CD-92E2BE9DF013 - 3d34cf2e429e8949"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Github_issues.IssueTableViewCell.issueImage.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Github issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manaswiniaitha/Documents/ios/Github%20issues/Github%20issues/IssueTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "680BD05D-35BE-4845-90CD-92E2BE9DF013 - e2c615e9b5a8caee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Github_issues.IssueTableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Github_issues.IssueTableViewCell"
+                  moduleName = "Github issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manaswiniaitha/Documents/ios/Github%20issues/Github%20issues/IssueTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "680BD05D-35BE-4845-90CD-92E2BE9DF013 - fbfd4bca7fe3a7d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Github_issues.IssueTableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Github_issues.IssueTableViewCell&gt;"
+                  moduleName = "Github issues"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/manaswiniaitha/Documents/ios/Github%20issues/Github%20issues/IssueTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
